@@ -1,7 +1,5 @@
 # Oi, meu nome é Ricardo :blue_heart:
 
-![Dia 01](https://media2.giphy.com/media/LW5vBvAb48Oe9OoEKT/source.gif)
-
 ## Algumas coisas sobre mim :
  :rocket: *Curso Ciência da Computação na Universidade Federal de Uberlândia* 
  
