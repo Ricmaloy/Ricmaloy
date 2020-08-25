@@ -1,6 +1,6 @@
 # Oi, meu nome é Ricardo :blue_heart:
 
-## Algumas coisas sobre mim :
+### Algumas coisas sobre mim :
  :rocket: *Curso Ciência da Computação na Universidade Federal de Uberlândia* 
  
  :rocket: *Sou apaixonado por Desenvolvimento Web, em especial por Front End :heart:* 
