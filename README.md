@@ -3,14 +3,21 @@
 ![Dia 01](https://media2.giphy.com/media/LW5vBvAb48Oe9OoEKT/source.gif)
 
 ## Algumas coisas sobre mim :
-:rocket: *Curso Ciência da Computação na Universidade Federal de Uberlândia* 
-:rocket: *Sou apaixonado por Desenvolvimento Web, em especial por Front End :heart:*
-:rocket: *Atualmente sou Diretor de Projetos e Inovações da Empresa Júnior de Computação da UFU*
-:rocket: *Faço parte de um cursinho pre vestibular/enem alternativo, como um dos professores de matemática*
-:rocket: *Sou instrutor de programação do Uberhub CodeClub ( C / C++ )*
-:rocket: *Caixista na Empresa Computaria*
-:rocket: *Tenho uma cachorrinha lindíssima chamada Léia :dog:*
-:rocket: *Tenho um irmão gêmeo que é idêntico à mim*
+ :rocket: *Curso Ciência da Computação na Universidade Federal de Uberlândia* 
+ 
+ :rocket: *Sou apaixonado por Desenvolvimento Web, em especial por Front End :heart:* 
+ 
+ :rocket: *Atualmente sou Diretor de Projetos e Inovações da Empresa Júnior de Computação da UFU*
+ 
+ :rocket: *Faço parte de um cursinho pre vestibular/enem alternativo, como um dos professores de matemática*
+ 
+ :rocket: *Sou instrutor de programação do Uberhub CodeClub ( C / C++ )*
+ 
+ :rocket: *Caixista na Empresa Computaria*
+ 
+ :rocket: *Tenho uma cachorrinha lindíssima chamada Léia :dog:*
+ 
+ :rocket: *Tenho um irmão gêmeo que é idêntico à mim*
 
 ##
 ### Vamos conversar  :speech_balloon:
