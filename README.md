@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, meu nome é Ricardo 👋
 
 <!--
 **Ricmaloy/Ricmaloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
