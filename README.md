@@ -1,16 +1,25 @@
-### Oi, meu nome é Ricardo 👋
+# Oi, meu nome é Ricardo :blue_heart:
 
-<!--
-**Ricmaloy/Ricmaloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Dia 01](https://media2.giphy.com/media/LW5vBvAb48Oe9OoEKT/source.gif)
 
-Here are some ideas to get you started:
+## Algumas coisas sobre mim :
+###### :rocket: *Curso Ciência da Computação na Universidade Federal de Uberlândia* 
+###### :rocket: *Sou apaixonado por Desenvolvimento Web, em especial por Front End :heart:*
+###### :rocket: *Atualmente sou Diretor de Projetos e Inovações da Empresa Júnior de Computação da UFU*
+###### :rocket: *Faço parte de um cursinho pre vestibular/enem alternativo, como um dos professores de matemática*
+###### :rocket: *Sou instrutor de programação do Uberhub CodeClub ( C / C++ )*
+###### :rocket: *Caixista na Empresa Computaria*
+###### :rocket: *Tenho uma cachorrinha lindíssima chamada Léia :dog:*
+###### :rocket: *Tenho um irmão gêmeo que é idêntico à mim*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+### Vamos conversar  :speech_balloon:
+#### Me segue nas minhas redes sociais, são elas:
+
+ - [Linkedin](https://www.linkedin.com/in/ricardo-zamboni-3906471b3/) 
+ 
+ - [Facebook](https://www.facebook.com/ricardo.zamboni.142)
+   
+ - [Instagram](https://www.instagram.com/xexox_oficial/)
+   
+ - [Twitter](https://twitter.com/Ricardo_Zamboni)
