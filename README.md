@@ -13,8 +13,6 @@
  
  :rocket: *Caixista na Empresa Computaria*
  
- :rocket: *Tenho uma cachorrinha lindíssima chamada Léia :dog:*
- 
  :rocket: *Tenho um irmão gêmeo que é idêntico à mim*
 
 ##
