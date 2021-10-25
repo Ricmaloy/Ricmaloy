@@ -29,8 +29,8 @@
  <a href="https://github.com/Ricmaloy/FalaDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=FalaDev&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/Ricmaloy/capputeeno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=capputeeno&theme=react&hide_border=true" />
+<a href="https://github.com/Ricmaloy/NLW-7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=NLW-7&theme=react&hide_border=true" />
 </a>
  
 </div>
