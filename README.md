@@ -1,5 +1,6 @@
+<h1 align="center" >Fala Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<h1 align="center" >Fala dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+![mario coding](https://im7.ezgif.com/tmp/ezgif-7-924bf96a52c7.gif)
 
 ## 💡 Sobre mim :
  - *Me chamo Ricardo Zamboni Silva e sou de Minas Gerais* 
@@ -12,7 +13,7 @@
  
  - *Desenvolvedor Front End na Zup Innovation*
  
- - *Caixista na Empresa Computaria*
+ - *Amante da educação e de compartilhar conhecimento*
  
  - *Tenho um irmão gêmeo que é idêntico à mim*
 
@@ -20,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/Ricmaloy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricmaloy&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricmaloy&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricmaloy&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 ## 🔥 Meus repos favoritos
@@ -37,8 +38,8 @@
 </div>
 
 
-## 🍻 Conecte comigo
-  abra seu terminal e digite o comando:
+## 🍻 Conecte-se comigo
+#####  abra seu terminal e digite o comando:
 
 ```bash
 npx ricardozamboni
