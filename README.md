@@ -39,20 +39,19 @@
 
 
 ## 🍻 Conecte-se comigo
-#####  abra seu terminal e digite o comando:
 
 ```bash
+# abra seu terminal e digite o comando: 
+ 
 npx ricardozamboni
 ```
 
 ## :speech_balloon: Vamos conversar  
 
-Você pode me enviar um [email](mailto:ricardozamboni021@gmail.com) ou chamar em qualquer uma das minhas redes abaixo!
-
-[![Instagram: ric.zamboni](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/carine.batatafrita)](https://www.instagram.com/ric.zamboni)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ricardozamboni_?label=Twitter)](https://twitter.com/intent/follow?screen_name=ricardozamboni_)
-[![Linkedin: ricardozamboni](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-zamboni-3906471b3/)](https://www.linkedin.com/in/ricardo-zamboni-3906471b3/)
-![GitHub followers](https://img.shields.io/github/followers/Ricmaloy?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ricardozamboni.vercel.app/)](https://ricardozamboni.vercel.app/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/riczamboni
-)](https://t.me/riczamboni)
+Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
+ 
+<a href="https://twitter.com/ricardozamboni_" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  <a href="https://github.com/Ricmaloy"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/ric.zamboni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://ricardozamboni.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>  <a href="mailto:ricardozamboni021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/ricardo-zamboni-3906471b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://t.me/riczamboni"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ 
+ 
+ 
+![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
