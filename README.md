@@ -1,6 +1,6 @@
 <h1 align="center" >Fala Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-![mario coding](https://im7.ezgif.com/tmp/ezgif-7-924bf96a52c7.gif)
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
  - *Me chamo Ricardo Zamboni Silva e sou de Minas Gerais* 
