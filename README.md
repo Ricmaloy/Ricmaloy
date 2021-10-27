@@ -19,8 +19,8 @@
 ## 📈 Estatísticas
 
 <div align="center">
- <a href="https://github.com/Ricmaloy/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricmaloy&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Ricmaloy's github stats"/></a> <a display="block" href="https://github.com/Ricmaloy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricmaloy&layout=compact&theme=react&hide_border=true" /></a>
+ <a display="inline-block" href="https://github.com/Ricmaloy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricmaloy&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Ricmaloy's github stats"/></a> 
+ <a display="inline-block" href="https://github.com/Ricmaloy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricmaloy&layout=compact&theme=react&hide_border=true" /></a>
 </div>
 
 ## 🔥 Meus repos favoritos
