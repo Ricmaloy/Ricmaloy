@@ -11,7 +11,7 @@
  
  - *Instrutor de programação do Uberhub CodeClub ( C / C++ )*
  
- - *Desenvolvedor Front End na [Zup Innovation](https://www.zup.com.br/)*
+ - *Software Engineer na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
  
  - *Amante da educação e de compartilhar conhecimento* 
 
